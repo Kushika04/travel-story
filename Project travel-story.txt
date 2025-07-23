@@ -1,0 +1,16 @@
+Project: travel-story
+Folder Structure:
+
+Frontend/
+  - public/
+  - src/
+    - components/
+    - pages/
+    - App.js
+    - index.js
+
+Backend/
+  - routes/
+  - models/
+  - controllers/
+  - index.js
